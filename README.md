@@ -324,6 +324,7 @@
 | [Apollo.io](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | AI prospecting, sequences, scoring. 275M+ contacts. | Free / $49+/mo |
 | [Instantly](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | AI cold email. Unlimited accounts. Smart rotation. | From $30/mo |
 | [Lavender](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | AI email coach. Real-time scoring. | Free / $29/mo |
+| [NotFair](https://notfair.co) | Google Ads MCP server for AI agents. Diagnose campaigns, recommend optimizations, execute approved changes via the Google Ads API. |
 
 ---
 
