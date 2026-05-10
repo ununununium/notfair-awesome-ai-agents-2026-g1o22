@@ -4,11 +4,11 @@
   <img src="assets/banner.svg" alt="Awesome AI Agents 2026" width="800">
   <br><br>
 
-  [![Awesome](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip)](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip)
-  [![Stars](https://img.shields.io/github/stars/caramaschiHG/awesome-ai-agents-2026?style=flat-square&color=yellow)](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip)
+  [![Awesome](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip)](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip)
+  [![Stars](https://img.shields.io/github/stars/caramaschiHG/awesome-ai-agents-2026?style=flat-square&color=yellow)](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip)
   [![Last Update](https://img.shields.io/badge/last%20update-March%202026-blue?style=flat-square)]()
-  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip)
-  [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square)](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip)
+  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip)
+  [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square)](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip)
 
   <h3>The most comprehensive list of AI agents, frameworks, and tools in 2026.</h3>
   <h4>300+ resources across 20+ categories.</h4>
@@ -54,57 +54,57 @@
 
 | Agent | Description | Pricing |
 |-------|-------------|---------|
-| [Cursor](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | VS Code fork. Composer mode for multi-file edits. Claude, GPT, Gemini. $29.3B valuation. | Free / $20/mo |
-| [GitHub Copilot](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Agent Mode in VS Code. Copilot Workspace issue-to-PR. Multi-model (Claude, GPT-5, Gemini 3). | $10/mo / $39/mo Pro+ |
-| [Windsurf (Codeium)](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Cascade agentic mode. Project-level memory. 5 parallel agents. | Free / $15/mo |
-| [JetBrains AI](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Deep integration across all JetBrains IDEs. Context-aware completions. | Included with IDE |
-| [Amazon Q Developer](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | AWS-native. Lambda, CloudWatch, infrastructure, security scanning. | Free / $19/mo |
-| [Tabnine](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Privacy-first. On-premise option. Fine-tuned on your codebase. | Free / $12/mo |
-| [Sourcegraph Cody](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Excels at large codebases. Enterprise context engine. | Free / $9/mo |
-| [Google Antigravity](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Free Claude Opus 4.5 access. Learning-focused. | Free |
+| [Cursor](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | VS Code fork. Composer mode for multi-file edits. Claude, GPT, Gemini. $29.3B valuation. | Free / $20/mo |
+| [GitHub Copilot](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Agent Mode in VS Code. Copilot Workspace issue-to-PR. Multi-model (Claude, GPT-5, Gemini 3). | $10/mo / $39/mo Pro+ |
+| [Windsurf (Codeium)](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Cascade agentic mode. Project-level memory. 5 parallel agents. | Free / $15/mo |
+| [JetBrains AI](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Deep integration across all JetBrains IDEs. Context-aware completions. | Included with IDE |
+| [Amazon Q Developer](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | AWS-native. Lambda, CloudWatch, infrastructure, security scanning. | Free / $19/mo |
+| [Tabnine](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Privacy-first. On-premise option. Fine-tuned on your codebase. | Free / $12/mo |
+| [Sourcegraph Cody](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Excels at large codebases. Enterprise context engine. | Free / $9/mo |
+| [Google Antigravity](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Free Claude Opus 4.5 access. Learning-focused. | Free |
 
 ### Terminal and CLI Agents
 
 | Agent | Description | Pricing |
 |-------|-------------|---------|
-| [Claude Code](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Anthropic CLI agent. Best reasoning. 80.9% SWE-bench. Agent Teams. | $20/mo+ API |
-| [OpenAI Codex CLI](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | OpenAI terminal agent. Agents SDK. Multi-agent. | ChatGPT sub |
-| [Aider](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | OSS pair programmer. Git-aware. Any LLM. | Free + API |
-| [Cline](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | VS Code extension. Full terminal and browser access for Claude/GPT. | Free + API |
-| [RooCode](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Cline fork. Structured modes. Reduced hallucinations. | Free + API |
-| [Kilo Code](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Emerging. Structured modes. Tighter context. | Free + API |
-| [OpenCode](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | BYOK terminal agent for Cursor refugees. | Free + API |
+| [Claude Code](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Anthropic CLI agent. Best reasoning. 80.9% SWE-bench. Agent Teams. | $20/mo+ API |
+| [OpenAI Codex CLI](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | OpenAI terminal agent. Agents SDK. Multi-agent. | ChatGPT sub |
+| [Aider](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | OSS pair programmer. Git-aware. Any LLM. | Free + API |
+| [Cline](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | VS Code extension. Full terminal and browser access for Claude/GPT. | Free + API |
+| [RooCode](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Cline fork. Structured modes. Reduced hallucinations. | Free + API |
+| [Kilo Code](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Emerging. Structured modes. Tighter context. | Free + API |
+| [OpenCode](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | BYOK terminal agent for Cursor refugees. | Free + API |
 
 ### Autonomous Software Engineers
 
 | Agent | Description | Pricing |
 |-------|-------------|---------|
-| [Devin](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Cognition. Fully autonomous. Sandboxed cloud env. Devin 2.0 with Interactive Planning. | $20/mo + ACU |
-| [Copilot Workspace](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | GitHub issue-to-PR agent. | Copilot sub |
-| [SWE-Agent](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Princeton. Resolves real GitHub issues autonomously. | Free (OSS) |
-| [OpenHands](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | OSS autonomous software engineer (ex-OpenDevin). | Free (OSS) |
-| [Grok Build (xAI)](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | 8 parallel agents for code gen. | xAI sub |
-| [Kiro](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Spec-driven development. DevOps automation. | Beta |
+| [Devin](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Cognition. Fully autonomous. Sandboxed cloud env. Devin 2.0 with Interactive Planning. | $20/mo + ACU |
+| [Copilot Workspace](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | GitHub issue-to-PR agent. | Copilot sub |
+| [SWE-Agent](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Princeton. Resolves real GitHub issues autonomously. | Free (OSS) |
+| [OpenHands](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | OSS autonomous software engineer (ex-OpenDevin). | Free (OSS) |
+| [Grok Build (xAI)](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | 8 parallel agents for code gen. | xAI sub |
+| [Kiro](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Spec-driven development. DevOps automation. | Beta |
 
 ### Code Review and Security
 
 | Agent | Description | Pricing |
 |-------|-------------|---------|
-| [Qodo](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | AI code review. Context-aware PR validation. | Free / Enterprise |
-| [CodeRabbit](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | AI PR reviewer. Inline suggestions, security. | Free OSS / $15/mo |
-| [Snyk Code](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | AI security scanner. Real-time vuln detection. | Free / Enterprise |
-| [PR-Agent](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | OSS AI PR reviewer. Auto-describe, review, improve. | Free (OSS) |
+| [Qodo](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | AI code review. Context-aware PR validation. | Free / Enterprise |
+| [CodeRabbit](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | AI PR reviewer. Inline suggestions, security. | Free OSS / $15/mo |
+| [Snyk Code](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | AI security scanner. Real-time vuln detection. | Free / Enterprise |
+| [PR-Agent](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | OSS AI PR reviewer. Auto-describe, review, improve. | Free (OSS) |
 
 ### App Builders (Prompt-to-App)
 
 | Agent | Description | Pricing |
 |-------|-------------|---------|
-| [Bolt.new](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Prompt to full-stack web app in browser. | Free / Paid |
-| [Lovable](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Describe then build then deploy from chat. | Free / $20/mo |
-| [v0 (Vercel)](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Prompt to React/Tailwind components. | Free / Pro |
-| [Replit Agent](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Full-stack from prompt. Auto-deploys. | Free / $25/mo |
-| [PlayCode Agent](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Browser-based. English to websites. | $9.99/mo |
-| [Dyad](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | OSS. Local-first. No-code app builder. | Free (OSS) |
+| [Bolt.new](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Prompt to full-stack web app in browser. | Free / Paid |
+| [Lovable](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Describe then build then deploy from chat. | Free / $20/mo |
+| [v0 (Vercel)](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Prompt to React/Tailwind components. | Free / Pro |
+| [Replit Agent](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Full-stack from prompt. Auto-deploys. | Free / $25/mo |
+| [PlayCode Agent](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Browser-based. English to websites. | $9.99/mo |
+| [Dyad](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | OSS. Local-first. No-code app builder. | Free (OSS) |
 
 ---
 
@@ -114,40 +114,40 @@
 
 | Framework | Lang | Description |
 |-----------|------|-------------|
-| [LangChain](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Py/JS | Most adopted. Modular architecture, memory, tools. |
-| [LangGraph](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Py/JS | Graph-based orchestration. Stateful directed graphs. |
-| [LlamaIndex](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Py/JS | Data-focused. Best for RAG agents. |
-| [Haystack](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Py | Pipeline-based. Search and retrieval. |
-| [Semantic Kernel](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | C#/Py/Java | Microsoft enterprise. Azure integration. |
-| [Pydantic AI](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Py | Type-safe. Clean Pythonic API. Production-ready. |
-| [DSPy](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Py | Stanford. Programming not prompting. Auto-optimizes. |
-| [Mastra](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | TS | TypeScript-first. Observational Memory. Apache 2.0. |
-| [Anthropic SDK](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Py/TS | Official Claude SDK. Tool use, computer control, streaming. |
+| [LangChain](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Py/JS | Most adopted. Modular architecture, memory, tools. |
+| [LangGraph](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Py/JS | Graph-based orchestration. Stateful directed graphs. |
+| [LlamaIndex](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Py/JS | Data-focused. Best for RAG agents. |
+| [Haystack](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Py | Pipeline-based. Search and retrieval. |
+| [Semantic Kernel](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | C#/Py/Java | Microsoft enterprise. Azure integration. |
+| [Pydantic AI](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Py | Type-safe. Clean Pythonic API. Production-ready. |
+| [DSPy](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Py | Stanford. Programming not prompting. Auto-optimizes. |
+| [Mastra](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | TS | TypeScript-first. Observational Memory. Apache 2.0. |
+| [Anthropic SDK](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Py/TS | Official Claude SDK. Tool use, computer control, streaming. |
 
 ### Multi-Agent Orchestration
 
 | Framework | Lang | Description |
 |-----------|------|-------------|
-| [AutoGen](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Py | Microsoft multi-agent conversations. |
-| [CrewAI](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Py | Role-based crew members with goals and tools. |
-| [MetaGPT](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Py | PM, architect, engineer roles. Software company sim. |
-| [OpenAI Agents SDK](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Py | Official. Multi-step agents with handoffs. |
-| [Google ADK](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Py | Native Gemini. Multi-agent orchestration. |
-| [Strands Agents](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Py | AWS-backed. Model-driven tool use. |
-| [CAMEL](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Py | Role-based simulation. Collaborative reasoning. |
-| [AutoGPT](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Py | Pioneer. Now full platform with visual builder. |
-| [AgentScope](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Py | Alibaba multi-agent framework. |
-| [DeerFlow](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Py | ByteDance. No.1 GitHub Trending Feb 2026. 25k+ stars. |
+| [AutoGen](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Py | Microsoft multi-agent conversations. |
+| [CrewAI](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Py | Role-based crew members with goals and tools. |
+| [MetaGPT](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Py | PM, architect, engineer roles. Software company sim. |
+| [OpenAI Agents SDK](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Py | Official. Multi-step agents with handoffs. |
+| [Google ADK](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Py | Native Gemini. Multi-agent orchestration. |
+| [Strands Agents](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Py | AWS-backed. Model-driven tool use. |
+| [CAMEL](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Py | Role-based simulation. Collaborative reasoning. |
+| [AutoGPT](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Py | Pioneer. Now full platform with visual builder. |
+| [AgentScope](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Py | Alibaba multi-agent framework. |
+| [DeerFlow](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Py | ByteDance. No.1 GitHub Trending Feb 2026. 25k+ stars. |
 
 ### Lightweight / Minimalist
 
 | Framework | Lang | Description |
 |-----------|------|-------------|
-| [Smolagents](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Py | HuggingFace minimal agents. ~1000 lines. |
-| [Agno](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Py | Lightweight, model-agnostic. |
-| [Upsonic](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Py | MCP support. Minimal setup. |
-| [Portia AI](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Py | Reliable agents in production. |
-| [MicroAgent](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Py | Self-editing prompts and code. |
+| [Smolagents](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Py | HuggingFace minimal agents. ~1000 lines. |
+| [Agno](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Py | Lightweight, model-agnostic. |
+| [Upsonic](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Py | MCP support. Minimal setup. |
+| [Portia AI](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Py | Reliable agents in production. |
+| [MicroAgent](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Py | Self-editing prompts and code. |
 
 ---
 
@@ -157,28 +157,28 @@
 
 | Agent | Description | Pricing |
 |-------|-------------|---------|
-| [OpenAI Operator](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | ChatGPT autonomous web agent. Human checkpoints. CUA tech. | ChatGPT Pro |
-| [Manus (Meta)](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Autonomous digital employee. Browser Operator extension. Acquired by Meta. | Free / Paid |
-| [Claude Computer Use](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Anthropic desktop/browser control via screenshots. | API |
-| [Claude in Chrome](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Anthropic browsing agent. Beta. | Claude sub |
-| [Google Project Mariner](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Gemini browser agent. Multi-tasking. | Waitlist |
-| [OpenAI Atlas](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | AI browser with Agent Mode. | ChatGPT sub |
-| [Dia Browser](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | AI-native browser (Atlassian/Browser Company). | Beta |
-| [Fellou](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Transparent. Visual workflow editing. Agentic memory. | Beta |
-| [Genspark](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | 169+ on-device models. No internet required. | Free / Paid |
+| [OpenAI Operator](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | ChatGPT autonomous web agent. Human checkpoints. CUA tech. | ChatGPT Pro |
+| [Manus (Meta)](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Autonomous digital employee. Browser Operator extension. Acquired by Meta. | Free / Paid |
+| [Claude Computer Use](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Anthropic desktop/browser control via screenshots. | API |
+| [Claude in Chrome](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Anthropic browsing agent. Beta. | Claude sub |
+| [Google Project Mariner](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Gemini browser agent. Multi-tasking. | Waitlist |
+| [OpenAI Atlas](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | AI browser with Agent Mode. | ChatGPT sub |
+| [Dia Browser](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | AI-native browser (Atlassian/Browser Company). | Beta |
+| [Fellou](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Transparent. Visual workflow editing. Agentic memory. | Beta |
+| [Genspark](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | 169+ on-device models. No internet required. | Free / Paid |
 
 ### Developer Infrastructure
 
 | Tool | Description |
 |------|-------------|
-| [Browser Use](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | OSS browser agent library. Used by Manus. |
-| [Skyvern](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Vision-driven. GPT-4V navigation without coded selectors. |
-| [Agent S2 (Simular)](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | OSS GUI automation framework. |
-| [MultiOn](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Reliable web automation API. CAPTCHA handling. |
-| [Browserbase](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Cloud browser infra for agents. Headless at scale. |
-| [Airtop](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Enterprise browser automation. AI integration. |
-| [Amazon Nova Act](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | AWS browser automation. Enterprise reliability. |
-| [Playwright MCP](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | MCP server for Playwright + AI agents. |
+| [Browser Use](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | OSS browser agent library. Used by Manus. |
+| [Skyvern](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Vision-driven. GPT-4V navigation without coded selectors. |
+| [Agent S2 (Simular)](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | OSS GUI automation framework. |
+| [MultiOn](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Reliable web automation API. CAPTCHA handling. |
+| [Browserbase](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Cloud browser infra for agents. Headless at scale. |
+| [Airtop](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Enterprise browser automation. AI integration. |
+| [Amazon Nova Act](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | AWS browser automation. Enterprise reliability. |
+| [Playwright MCP](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | MCP server for Playwright + AI agents. |
 
 ---
 
@@ -188,26 +188,26 @@
 
 | Platform | Description | Pricing |
 |----------|-------------|---------|
-| [ElevenLabs](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Industry benchmark. Conv AI 2.0. RAG, multimodal, batch calling. 75ms. HIPAA. $11B. | Free / $5+/mo |
-| [Vapi](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Developer-first. Low-latency, model-agnostic. | Usage-based |
-| [Bland AI](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Outbound call automation. CRM integration. SOC2/HIPAA. | Usage-based |
-| [Voiceflow](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | No-code voice and chat builder. Drag-and-drop. | Free / $50+/mo |
-| [Synthflow](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | No-code voice agents for SMBs. Templates. | From $29/mo |
-| [PolyAI](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Enterprise. Natural multi-turn. Hospitality/retail. | Enterprise |
-| [Retell AI](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Human-like voice agents. Multi-language. Telephony. | Usage-based |
-| [HeyGen](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Talking avatars. Voice cloning. Lip-sync translation. | From $24/mo |
-| [Synthesia](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | AI video avatars. 120+ languages. Enterprise. | From $22/mo |
-| [Deepgram](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | STT and TTS APIs. Sub-300ms latency. | Usage-based |
-| [AssemblyAI](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | STT with diarization, sentiment, summarization. | Usage-based |
+| [ElevenLabs](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Industry benchmark. Conv AI 2.0. RAG, multimodal, batch calling. 75ms. HIPAA. $11B. | Free / $5+/mo |
+| [Vapi](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Developer-first. Low-latency, model-agnostic. | Usage-based |
+| [Bland AI](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Outbound call automation. CRM integration. SOC2/HIPAA. | Usage-based |
+| [Voiceflow](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | No-code voice and chat builder. Drag-and-drop. | Free / $50+/mo |
+| [Synthflow](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | No-code voice agents for SMBs. Templates. | From $29/mo |
+| [PolyAI](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Enterprise. Natural multi-turn. Hospitality/retail. | Enterprise |
+| [Retell AI](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Human-like voice agents. Multi-language. Telephony. | Usage-based |
+| [HeyGen](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Talking avatars. Voice cloning. Lip-sync translation. | From $24/mo |
+| [Synthesia](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | AI video avatars. 120+ languages. Enterprise. | From $22/mo |
+| [Deepgram](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | STT and TTS APIs. Sub-300ms latency. | Usage-based |
+| [AssemblyAI](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | STT with diarization, sentiment, summarization. | Usage-based |
 
 ### Open-Source Voice
 
 | Tool | Description |
 |------|-------------|
-| [LiveKit Agents](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | OSS real-time voice/video AI agents. |
-| [Rasa](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | OSS conversational AI. Self-hosted. NLU training. |
-| [Pipecat](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | OSS voice and multimodal conversational AI. |
-| [Vocode](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | OSS voice-based LLM agents. |
+| [LiveKit Agents](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | OSS real-time voice/video AI agents. |
+| [Rasa](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | OSS conversational AI. Self-hosted. NLU training. |
+| [Pipecat](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | OSS voice and multimodal conversational AI. |
+| [Vocode](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | OSS voice-based LLM agents. |
 
 ---
 
@@ -217,49 +217,49 @@
 
 | Tool | Description | Pricing |
 |------|-------------|---------|
-| [Midjourney v7](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Best artistic quality. Unmatched aesthetics. Discord + web. | From $10/mo |
-| [DALL-E 3.5](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Best prompt comprehension. 95% text accuracy. ChatGPT. | ChatGPT Plus |
-| [FLUX 2](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Open-weight. Best photorealism. 4K. 6x speed. | Free / API |
-| [Stable Diffusion 3.5](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Open-source. ControlNet, LoRAs, ComfyUI ecosystem. | Free (OSS) |
-| [Adobe Firefly 3](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Licensed data only. Commercial indemnification. Photoshop. | Adobe CC |
-| [Google Imagen 4](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | State-of-art photorealism. API via AI Studio. | API |
-| [Ideogram v3](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Best text-in-image. Zero spelling errors. Logos/posters. | Free / $7+/mo |
-| [Leonardo AI](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Multi-model. Realtime Canvas. 3D gaming assets. Canva-owned. | Free / $12+/mo |
-| [Recraft](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Design-focused. Vector art, brand consistency. | Free / Paid |
+| [Midjourney v7](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Best artistic quality. Unmatched aesthetics. Discord + web. | From $10/mo |
+| [DALL-E 3.5](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Best prompt comprehension. 95% text accuracy. ChatGPT. | ChatGPT Plus |
+| [FLUX 2](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Open-weight. Best photorealism. 4K. 6x speed. | Free / API |
+| [Stable Diffusion 3.5](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Open-source. ControlNet, LoRAs, ComfyUI ecosystem. | Free (OSS) |
+| [Adobe Firefly 3](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Licensed data only. Commercial indemnification. Photoshop. | Adobe CC |
+| [Google Imagen 4](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | State-of-art photorealism. API via AI Studio. | API |
+| [Ideogram v3](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Best text-in-image. Zero spelling errors. Logos/posters. | Free / $7+/mo |
+| [Leonardo AI](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Multi-model. Realtime Canvas. 3D gaming assets. Canva-owned. | Free / $12+/mo |
+| [Recraft](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Design-focused. Vector art, brand consistency. | Free / Paid |
 
 ### Video Generation
 
 | Tool | Description | Pricing |
 |------|-------------|---------|
-| [Sora 2](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Best narrative coherence. Physics realism. 25s. 1080p. | $20+/mo |
-| [Google Veo 3.1](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Best cinematic. Native audio. 4K. Vertex AI. | API |
-| [Runway Gen-4.5](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | No.1 benchmark. Motion Brush, Director Mode. Best editing. | From $12/mo |
-| [Kling 3.0](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Best value. 4K, 2min, native audio. $0.029/sec API. | Free / $6.99+/mo |
-| [Seedance 2.0](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Quad-modal input. Lip sync. 2K resolution. | Free credits |
-| [Pika 2.5](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Beginner-friendly. Pikaswaps. Fast renders. | Free / $8+/mo |
-| [Luma Dream Machine](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | 4K HDR. Physics simulation. 3D/cinematic. | From $7.99/mo |
-| [HaiLuo AI](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Budget video. 10 free/day. MiniMax. | Free / $4.99+/mo |
-| [Wan 2.1](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Best free OSS video gen. Self-hostable. No limits. | Free (OSS) |
-| [HunyuanVideo](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Tencent OSS. Consumer GPU. Multi-style. | Free (OSS) |
-| [LTX Video](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | OSS. Licensed data. Clear commercial terms. | Free (OSS) |
+| [Sora 2](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Best narrative coherence. Physics realism. 25s. 1080p. | $20+/mo |
+| [Google Veo 3.1](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Best cinematic. Native audio. 4K. Vertex AI. | API |
+| [Runway Gen-4.5](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | No.1 benchmark. Motion Brush, Director Mode. Best editing. | From $12/mo |
+| [Kling 3.0](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Best value. 4K, 2min, native audio. $0.029/sec API. | Free / $6.99+/mo |
+| [Seedance 2.0](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Quad-modal input. Lip sync. 2K resolution. | Free credits |
+| [Pika 2.5](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Beginner-friendly. Pikaswaps. Fast renders. | Free / $8+/mo |
+| [Luma Dream Machine](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | 4K HDR. Physics simulation. 3D/cinematic. | From $7.99/mo |
+| [HaiLuo AI](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Budget video. 10 free/day. MiniMax. | Free / $4.99+/mo |
+| [Wan 2.1](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Best free OSS video gen. Self-hostable. No limits. | Free (OSS) |
+| [HunyuanVideo](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Tencent OSS. Consumer GPU. Multi-style. | Free (OSS) |
+| [LTX Video](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | OSS. Licensed data. Clear commercial terms. | Free (OSS) |
 
 ### Music and Audio
 
 | Tool | Description | Pricing |
 |------|-------------|---------|
-| [Suno](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Text-to-song. Full tracks with vocals. Viral hit maker. | Free / $8+/mo |
-| [Udio](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | High-fidelity music gen. Fine control. | Free / $10+/mo |
-| [ElevenLabs Music](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Vocals, instrumentals. Sectional editing. Stem separation. | Plan included |
-| [Stable Audio](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | High-quality. Commercial license. | Free / Paid |
-| [Meta AudioCraft](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | OSS. MusicGen + AudioGen. | Free (OSS) |
+| [Suno](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Text-to-song. Full tracks with vocals. Viral hit maker. | Free / $8+/mo |
+| [Udio](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | High-fidelity music gen. Fine control. | Free / $10+/mo |
+| [ElevenLabs Music](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Vocals, instrumentals. Sectional editing. Stem separation. | Plan included |
+| [Stable Audio](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | High-quality. Commercial license. | Free / Paid |
+| [Meta AudioCraft](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | OSS. MusicGen + AudioGen. | Free (OSS) |
 
 ### 3D and Design
 
 | Tool | Description | Pricing |
 |------|-------------|---------|
-| [Meshy](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Text/image to 3D. Game assets, products. | Free / Paid |
-| [Tripo AI](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Fast 3D from text/images. Multi-format export. | Free / Paid |
-| [Vizcom](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Real-time AI rendering for industrial designers. | From $20/mo |
+| [Meshy](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Text/image to 3D. Game assets, products. | Free / Paid |
+| [Tripo AI](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Fast 3D from text/images. Multi-format export. | Free / Paid |
+| [Vizcom](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Real-time AI rendering for industrial designers. | From $20/mo |
 
 ---
 
@@ -269,23 +269,23 @@
 
 | Agent | Description | Pricing |
 |-------|-------------|---------|
-| [n8n](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | OSS workflow automation with AI agent nodes. Visual + code. | Free / Cloud |
-| [Zapier AI](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | 7000+ apps. Natural language workflows. | From $19.99/mo |
-| [Make](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Visual workflow platform. AI capabilities. | Free / Paid |
-| [Activepieces](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | OSS Zapier alternative with AI. | Free (OSS) |
-| [Temporal](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Durable execution for long-running agent workflows. | Free / Cloud |
+| [n8n](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | OSS workflow automation with AI agent nodes. Visual + code. | Free / Cloud |
+| [Zapier AI](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | 7000+ apps. Natural language workflows. | From $19.99/mo |
+| [Make](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Visual workflow platform. AI capabilities. | Free / Paid |
+| [Activepieces](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | OSS Zapier alternative with AI. | Free (OSS) |
+| [Temporal](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Durable execution for long-running agent workflows. | Free / Cloud |
 
 ### No-Code Agent Builders
 
 | Agent | Description | Pricing |
 |-------|-------------|---------|
-| [Dify](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | OSS LLMOps. Visual agent builder. RAG. 130k+ stars. | Free / Cloud |
-| [Flowise](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | OSS drag-and-drop LLM agent builder. | Free (OSS) |
-| [Langflow](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Visual multi-agent and RAG builder. | Free / Cloud |
-| [Lindy](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | No-code agents. 3000+ integrations. | From $49/mo |
-| [Relevance AI](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | No-code agents for sales, support, research. | Free / Paid |
-| [Rivet](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Visual AI workflow builder. Drag-and-drop. | Free (OSS) |
-| [FastAgency](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Deploy multi-agent workflows as APIs. | Free (OSS) |
+| [Dify](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | OSS LLMOps. Visual agent builder. RAG. 130k+ stars. | Free / Cloud |
+| [Flowise](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | OSS drag-and-drop LLM agent builder. | Free (OSS) |
+| [Langflow](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Visual multi-agent and RAG builder. | Free / Cloud |
+| [Lindy](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | No-code agents. 3000+ integrations. | From $49/mo |
+| [Relevance AI](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | No-code agents for sales, support, research. | Free / Paid |
+| [Rivet](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Visual AI workflow builder. Drag-and-drop. | Free (OSS) |
+| [FastAgency](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Deploy multi-agent workflows as APIs. | Free (OSS) |
 
 ---
 
@@ -295,35 +295,35 @@
 
 | Agent | Description | Pricing |
 |-------|-------------|---------|
-| [Intercom Fin](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Resolves 50%+ tickets. Learns from help center. | From $29/seat |
-| [Zendesk AI](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Ticket routing, sentiment detection, Answer Bot. | From $19/agent |
-| [Ada](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Autonomous resolution. Multi-channel. SOP Playbooks. | Enterprise |
-| [Assembled](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Workforce-aware handoffs. End-to-end resolution. | Enterprise |
-| [Freshdesk Freddy AI](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Auto-triage, smart routing, predictive analytics. | From $15/agent |
-| [Dixa (Mim)](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Conversational CRM. AI routing and prioritization. | Enterprise |
+| [Intercom Fin](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Resolves 50%+ tickets. Learns from help center. | From $29/seat |
+| [Zendesk AI](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Ticket routing, sentiment detection, Answer Bot. | From $19/agent |
+| [Ada](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Autonomous resolution. Multi-channel. SOP Playbooks. | Enterprise |
+| [Assembled](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Workforce-aware handoffs. End-to-end resolution. | Enterprise |
+| [Freshdesk Freddy AI](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Auto-triage, smart routing, predictive analytics. | From $15/agent |
+| [Dixa (Mim)](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Conversational CRM. AI routing and prioritization. | Enterprise |
 
 ### AI-Powered CRMs
 
 | CRM | AI Features | Pricing |
 |-----|-------------|---------|
-| [Salesforce Einstein + Agentforce](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Predictions, autonomous agents, ChatGPT integration. | Enterprise |
-| [HubSpot Breeze](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Copilot, Agents, Intelligence. Agent marketplace. | Free / $45+/mo |
-| [Monday CRM (Lexi)](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | AI sales agent. Lead sourcing, qualification. AI Blocks. | From $12/seat |
-| [Zoho CRM (Zia)](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Predictive, sentiment, voice commands. | From $14/user |
-| [Pipedrive AI](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Email gen, deal priority, smart reports. | From $14/seat |
-| [Dynamics 365 Copilot](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Drafting, summarizing, translating. Power Platform. | Enterprise |
-| [ServiceNow AI Agents](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Orchestrator across IT, HR, CRM. | Enterprise |
-| [Creatio](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | No-code. Pre-configured agents. | From $25/user |
-| [Salesmate](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Call summarization, lead qualification. | From $23/user |
+| [Salesforce Einstein + Agentforce](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Predictions, autonomous agents, ChatGPT integration. | Enterprise |
+| [HubSpot Breeze](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Copilot, Agents, Intelligence. Agent marketplace. | Free / $45+/mo |
+| [Monday CRM (Lexi)](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | AI sales agent. Lead sourcing, qualification. AI Blocks. | From $12/seat |
+| [Zoho CRM (Zia)](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Predictive, sentiment, voice commands. | From $14/user |
+| [Pipedrive AI](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Email gen, deal priority, smart reports. | From $14/seat |
+| [Dynamics 365 Copilot](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Drafting, summarizing, translating. Power Platform. | Enterprise |
+| [ServiceNow AI Agents](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Orchestrator across IT, HR, CRM. | Enterprise |
+| [Creatio](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | No-code. Pre-configured agents. | From $25/user |
+| [Salesmate](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Call summarization, lead qualification. | From $23/user |
 
 ### Sales and Outreach Agents
 
 | Agent | Description | Pricing |
 |-------|-------------|---------|
-| [Clay](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | AI data enrichment. Personalized outreach at scale. | From $149/mo |
-| [Apollo.io](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | AI prospecting, sequences, scoring. 275M+ contacts. | Free / $49+/mo |
-| [Instantly](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | AI cold email. Unlimited accounts. Smart rotation. | From $30/mo |
-| [Lavender](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | AI email coach. Real-time scoring. | Free / $29/mo |
+| [Clay](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | AI data enrichment. Personalized outreach at scale. | From $149/mo |
+| [Apollo.io](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | AI prospecting, sequences, scoring. 275M+ contacts. | Free / $49+/mo |
+| [Instantly](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | AI cold email. Unlimited accounts. Smart rotation. | From $30/mo |
+| [Lavender](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | AI email coach. Real-time scoring. | Free / $29/mo |
 
 ---
 
@@ -333,35 +333,35 @@
 
 | Agent | Description | Pricing |
 |-------|-------------|---------|
-| [Claude Deep Research](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Multi-step investigation with citations. | Claude Pro |
-| [ChatGPT Deep Research](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Extended reasoning, web browsing, reports. | ChatGPT Pro |
-| [Gemini Deep Research](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Google Search and Knowledge Graph. | Gemini Advanced |
-| [Perplexity Pro](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | AI search with deep research mode. Real-time citations. | Free / $20/mo |
-| [DeerFlow](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | ByteDance OSS. Planning, tools, memory, execution. | Free (OSS) |
-| [GPT Researcher](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | OSS autonomous comprehensive research. | Free (OSS) |
-| [STORM](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Stanford. Writes Wikipedia-like articles from scratch. | Free (OSS) |
+| [Claude Deep Research](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Multi-step investigation with citations. | Claude Pro |
+| [ChatGPT Deep Research](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Extended reasoning, web browsing, reports. | ChatGPT Pro |
+| [Gemini Deep Research](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Google Search and Knowledge Graph. | Gemini Advanced |
+| [Perplexity Pro](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | AI search with deep research mode. Real-time citations. | Free / $20/mo |
+| [DeerFlow](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | ByteDance OSS. Planning, tools, memory, execution. | Free (OSS) |
+| [GPT Researcher](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | OSS autonomous comprehensive research. | Free (OSS) |
+| [STORM](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Stanford. Writes Wikipedia-like articles from scratch. | Free (OSS) |
 
 ### Data Analysis
 
 | Agent | Description | Pricing |
 |-------|-------------|---------|
-| [Julius AI](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Upload CSV/Excel, ask in natural language. | Free / Paid |
-| [Hex AI](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Collaborative data platform. AI analysis. | Free / Paid |
-| [PandasAI](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Chat with your data. NL to Pandas/SQL. | Free (OSS) |
-| [TaskWeaver](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Microsoft. Code-first data analytics agents. | Free (OSS) |
+| [Julius AI](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Upload CSV/Excel, ask in natural language. | Free / Paid |
+| [Hex AI](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Collaborative data platform. AI analysis. | Free / Paid |
+| [PandasAI](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Chat with your data. NL to Pandas/SQL. | Free (OSS) |
+| [TaskWeaver](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Microsoft. Code-first data analytics agents. | Free (OSS) |
 
 ### RAG and Knowledge Bases
 
 | Tool | Description |
 |------|-------------|
-| [RAGFlow](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | OSS RAG engine with agent capabilities. |
-| [Pathway](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Live data RAG. Real-time streaming. 50k+ stars. |
-| [Mem0](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Memory layer for agents. Long-term across sessions. |
-| [Chroma](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | OSS embedding database. Fastest way to build RAG. |
-| [Weaviate](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | OSS vector DB. GraphQL. Multi-modal search. |
-| [Qdrant](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | High-performance vector DB in Rust. |
-| [Milvus](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Cloud-native vector DB. Billion-scale. |
-| [Pinecone](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Managed vector DB. Serverless. Low-latency. |
+| [RAGFlow](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | OSS RAG engine with agent capabilities. |
+| [Pathway](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Live data RAG. Real-time streaming. 50k+ stars. |
+| [Mem0](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Memory layer for agents. Long-term across sessions. |
+| [Chroma](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | OSS embedding database. Fastest way to build RAG. |
+| [Weaviate](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | OSS vector DB. GraphQL. Multi-modal search. |
+| [Qdrant](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | High-performance vector DB in Rust. |
+| [Milvus](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Cloud-native vector DB. Billion-scale. |
+| [Pinecone](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Managed vector DB. Serverless. Low-latency. |
 
 ---
 
@@ -371,25 +371,25 @@
 
 | Tool | Description |
 |------|-------------|
-| [Ollama](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Run LLMs locally. 162k+ stars. Dead simple CLI. |
-| [llama.cpp](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | C/C++ inference. CPU, GPU, Apple Silicon. Foundation of local AI. |
-| [vLLM](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | High-throughput serving. PagedAttention. Production-grade. |
-| [LM Studio](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Desktop app for local LLMs. Beautiful UI. All platforms. |
-| [Jan](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | OSS ChatGPT alternative. 100% offline. |
-| [LocalAI](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Drop-in OpenAI API replacement. No GPU required. |
-| [GPT4All](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | OSS local chat. Consumer hardware. |
-| [Llamafile](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | LLMs as single files. Zero setup. Mozilla. |
+| [Ollama](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Run LLMs locally. 162k+ stars. Dead simple CLI. |
+| [llama.cpp](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | C/C++ inference. CPU, GPU, Apple Silicon. Foundation of local AI. |
+| [vLLM](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | High-throughput serving. PagedAttention. Production-grade. |
+| [LM Studio](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Desktop app for local LLMs. Beautiful UI. All platforms. |
+| [Jan](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | OSS ChatGPT alternative. 100% offline. |
+| [LocalAI](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Drop-in OpenAI API replacement. No GPU required. |
+| [GPT4All](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | OSS local chat. Consumer hardware. |
+| [Llamafile](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | LLMs as single files. Zero setup. Mozilla. |
 
 ### Self-Hosted Agents and UIs
 
 | Tool | Description |
 |------|-------------|
-| [Open WebUI](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Self-hosted ChatGPT UI. Access control. Extensions. |
-| [OpenClaw](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Fastest-growing GitHub repo ever (9k to 188k stars in 60 days). Self-hosted agent across WhatsApp, Telegram, Slack, Discord, Signal. 5,700+ community skills. |
-| [LibreChat](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Self-hosted multi-model chat. All major providers. |
-| [LobeChat](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | OSS ChatGPT/Gemini UI. Plugin system. Multi-modal. |
-| [Anything LLM](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | All-in-one AI app. RAG, agents. Desktop + Docker. |
-| [DB-GPT](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Data interaction with local LLM. 100% private. |
+| [Open WebUI](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Self-hosted ChatGPT UI. Access control. Extensions. |
+| [OpenClaw](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Fastest-growing GitHub repo ever (9k to 188k stars in 60 days). Self-hosted agent across WhatsApp, Telegram, Slack, Discord, Signal. 5,700+ community skills. |
+| [LibreChat](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Self-hosted multi-model chat. All major providers. |
+| [LobeChat](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | OSS ChatGPT/Gemini UI. Plugin system. Multi-modal. |
+| [Anything LLM](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | All-in-one AI app. RAG, agents. Desktop + Docker. |
+| [DB-GPT](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Data interaction with local LLM. 100% private. |
 
 ---
 
@@ -397,13 +397,13 @@
 
 | Platform | Description | Pricing |
 |----------|-------------|---------|
-| [ChatGPT](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | GPTs, Deep Research, Canvas, Agent Mode, vision. GPT-5. | Free / $20+/mo |
-| [Claude](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Tool use, computer control, MCP, code exec. Chrome, Excel, Cowork. | Free / $20+/mo |
-| [Gemini](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Deep Think, Gems, multi-modal. 1M tokens. Google ecosystem. | Free / $19.99+/mo |
-| [Grok](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Real-time X data. Grok Build. Image gen. | X Premium+ |
-| [Meta AI](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Llama-powered. WhatsApp/Messenger. Manus acquisition. | Free |
-| [Microsoft Copilot](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Office 365 integration. Enterprise. | Free / $30/user |
-| [Coze](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | ByteDance agent builder. Visual workflow. Plugin marketplace. | Free / Paid |
+| [ChatGPT](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | GPTs, Deep Research, Canvas, Agent Mode, vision. GPT-5. | Free / $20+/mo |
+| [Claude](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Tool use, computer control, MCP, code exec. Chrome, Excel, Cowork. | Free / $20+/mo |
+| [Gemini](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Deep Think, Gems, multi-modal. 1M tokens. Google ecosystem. | Free / $19.99+/mo |
+| [Grok](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Real-time X data. Grok Build. Image gen. | X Premium+ |
+| [Meta AI](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Llama-powered. WhatsApp/Messenger. Manus acquisition. | Free |
+| [Microsoft Copilot](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Office 365 integration. Enterprise. | Free / $30/user |
+| [Coze](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | ByteDance agent builder. Visual workflow. Plugin marketplace. | Free / Paid |
 
 ---
 
@@ -411,11 +411,11 @@
 
 | Protocol | Description |
 |----------|-------------|
-| [MCP (Model Context Protocol)](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Anthropic open standard. "USB-C for AI." Industry standard for tools. |
-| [A2A (Agent-to-Agent)](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Google protocol for inter-agent communication. |
-| [OpenAI Function Calling](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | OpenAI native tool-use. JSON schema. |
-| [Tool Use (Anthropic)](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Claude native tool-use. Structured JSON. |
-| [OpenAPI](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Industry-standard API spec. Foundation for agent tools. |
+| [MCP (Model Context Protocol)](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Anthropic open standard. "USB-C for AI." Industry standard for tools. |
+| [A2A (Agent-to-Agent)](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Google protocol for inter-agent communication. |
+| [OpenAI Function Calling](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | OpenAI native tool-use. JSON schema. |
+| [Tool Use (Anthropic)](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Claude native tool-use. Structured JSON. |
+| [OpenAPI](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Industry-standard API spec. Foundation for agent tools. |
 
 ---
 
@@ -425,22 +425,22 @@
 
 | Tool | Description |
 |------|-------------|
-| [Langfuse](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | OSS LLM observability. Traces, evals, prompts. |
-| [LangSmith](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | LangChain platform. Tracing, testing, evaluation. |
-| [Braintrust](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Eval-driven development. Experiment tracking. |
-| [Arize Phoenix](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | OSS AI observability. Traces, evals, embeddings. |
-| [Helicone](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | OSS LLM observability. One-line integration. |
-| [Weights and Biases Weave](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Trace and evaluate LLM apps. |
+| [Langfuse](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | OSS LLM observability. Traces, evals, prompts. |
+| [LangSmith](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | LangChain platform. Tracing, testing, evaluation. |
+| [Braintrust](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Eval-driven development. Experiment tracking. |
+| [Arize Phoenix](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | OSS AI observability. Traces, evals, embeddings. |
+| [Helicone](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | OSS LLM observability. One-line integration. |
+| [Weights and Biases Weave](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Trace and evaluate LLM apps. |
 
 ### Benchmarks
 
 | Benchmark | Description |
 |-----------|-------------|
-| [SWE-bench](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Industry standard for coding agents. Top: 80.9% (Opus). |
-| [AgentBench](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | 8-environment LLM agent benchmark. |
-| [Terminal-Bench](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Terminal agent performance. GPT-5.3 leads at 77.3%. |
-| [GAIA](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | General AI Assistant. Real-world tasks. |
-| [WebArena](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Web agent benchmark. Real websites. |
+| [SWE-bench](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Industry standard for coding agents. Top: 80.9% (Opus). |
+| [AgentBench](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | 8-environment LLM agent benchmark. |
+| [Terminal-Bench](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Terminal agent performance. GPT-5.3 leads at 77.3%. |
+| [GAIA](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | General AI Assistant. Real-world tasks. |
+| [WebArena](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Web agent benchmark. Real websites. |
 
 ---
 
@@ -448,14 +448,14 @@
 
 | Model | Org | Params | Highlights |
 |-------|-----|--------|------------|
-| [Llama 4](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Meta | 8B-405B+ | Strong tool use. Maverick and Scout. Open-weight. |
-| [Qwen 3](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Alibaba | 0.6B-235B | MCP-native. Best multilingual open model. |
-| [DeepSeek V3/R1](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | DeepSeek | 671B MoE | 68x cheaper. Strong reasoning. |
-| [GLM-4](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Zhipu | 744B MoE | Lowest hallucination rate. 77.8% SWE-bench. |
-| [Mistral Large](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Mistral | Various | Function calling, JSON mode. European. |
-| [Gemma 3](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Google | 1B-27B | Efficient on-device. Multi-modal. Edge agents. |
-| [Command R+](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Cohere | 104B | RAG and enterprise tool use optimized. |
-| [Phi-4](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Microsoft | 14B | Small but mighty. On-device agents. |
+| [Llama 4](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Meta | 8B-405B+ | Strong tool use. Maverick and Scout. Open-weight. |
+| [Qwen 3](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Alibaba | 0.6B-235B | MCP-native. Best multilingual open model. |
+| [DeepSeek V3/R1](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | DeepSeek | 671B MoE | 68x cheaper. Strong reasoning. |
+| [GLM-4](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Zhipu | 744B MoE | Lowest hallucination rate. 77.8% SWE-bench. |
+| [Mistral Large](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Mistral | Various | Function calling, JSON mode. European. |
+| [Gemma 3](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Google | 1B-27B | Efficient on-device. Multi-modal. Edge agents. |
+| [Command R+](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Cohere | 104B | RAG and enterprise tool use optimized. |
+| [Phi-4](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Microsoft | 14B | Small but mighty. On-device agents. |
 
 ---
 
@@ -463,11 +463,11 @@
 
 | Tool | Description |
 |------|-------------|
-| [Guardrails AI](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Structural, type, quality guarantees for LLM outputs. |
-| [NeMo Guardrails](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | NVIDIA. Programmable conversation guardrails. |
-| [LLM Guard](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Security toolkit. Input/output scanning. |
-| [Rebuff](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Prompt injection detection. |
-| [Lakera Guard](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Real-time protection. Prompt injection, data leakage, toxicity. |
+| [Guardrails AI](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Structural, type, quality guarantees for LLM outputs. |
+| [NeMo Guardrails](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | NVIDIA. Programmable conversation guardrails. |
+| [LLM Guard](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Security toolkit. Input/output scanning. |
+| [Rebuff](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Prompt injection detection. |
+| [Lakera Guard](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Real-time protection. Prompt injection, data leakage, toxicity. |
 
 ---
 
@@ -475,33 +475,33 @@
 
 | Agent | Description |
 |-------|-------------|
-| [CAI](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | AI pentesting, vuln discovery, red teaming. HITL. |
-| [YAWNING TITAN](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Graph-based cybersecurity simulation. |
-| [PentestGPT](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | GPT-powered pentesting. Automated reasoning. |
-| [Microsoft Security Copilot](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Enterprise threat detection, incident response. |
-| [CrowdStrike Charlotte AI](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | AI security analyst. Threat hunting. |
+| [CAI](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | AI pentesting, vuln discovery, red teaming. HITL. |
+| [YAWNING TITAN](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Graph-based cybersecurity simulation. |
+| [PentestGPT](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | GPT-powered pentesting. Automated reasoning. |
+| [Microsoft Security Copilot](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Enterprise threat detection, incident response. |
+| [CrowdStrike Charlotte AI](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | AI security analyst. Threat hunting. |
 
 ---
 
 ## 📚 Learning Resources
 
 ### Courses and Tutorials
-- [DeepLearning.AI Agent Courses](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) - Free courses with LangChain, CrewAI, AutoGen
-- [HuggingFace Agents Course](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) - Open-source agent dev course
-- [LangGraph Academy](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) - Official LangGraph path
-- [Anthropic Cookbook](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) - Claude agent recipes
-- [Microsoft GenAI for Beginners](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) - 21-lesson course
-- [OpenAI Cookbook](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) - Practical API guides
+- [DeepLearning.AI Agent Courses](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) - Free courses with LangChain, CrewAI, AutoGen
+- [HuggingFace Agents Course](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) - Open-source agent dev course
+- [LangGraph Academy](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) - Official LangGraph path
+- [Anthropic Cookbook](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) - Claude agent recipes
+- [Microsoft GenAI for Beginners](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) - 21-lesson course
+- [OpenAI Cookbook](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) - Practical API guides
 
 ### Key Papers
-- [ReAct](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) - Foundation for modern agents (reasoning + acting)
-- [Toolformer](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) - Teaching LLMs to use tools
-- [Voyager](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) - Open-ended embodied agent in Minecraft
-- [Generative Agents](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) - Stanford simulacra of human behavior
-- [Self-Refine](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) - Iterative self-refinement
-- [Tree of Thoughts](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) - Deliberate problem solving
-- [HuggingGPT](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) - LLM task planning + specialist models
-- [MRKL Systems](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) - Neuro-symbolic agent architecture
+- [ReAct](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) - Foundation for modern agents (reasoning + acting)
+- [Toolformer](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) - Teaching LLMs to use tools
+- [Voyager](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) - Open-ended embodied agent in Minecraft
+- [Generative Agents](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) - Stanford simulacra of human behavior
+- [Self-Refine](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) - Iterative self-refinement
+- [Tree of Thoughts](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) - Deliberate problem solving
+- [HuggingGPT](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) - LLM task planning + specialist models
+- [MRKL Systems](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) - Neuro-symbolic agent architecture
 
 ### Books
 - Building LLM Apps (O'Reilly) - Practical LLM application development
@@ -514,14 +514,14 @@
 
 | Resource | Description |
 |----------|-------------|
-| [Awesome Agents Newsletter](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Weekly tools + reviews |
-| [Latent Space](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | AI engineering podcast (Swyx + Alessio) |
-| [The Rundown AI](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Daily digest (600k+ subs) |
-| [Ben's Bites](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Daily AI with builder focus |
-| [State of Agent Engineering](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Annual report (1,300+ surveyed) |
-| [r/LangChain](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Agent developer community |
-| [r/ClaudeAI](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Claude community |
-| [r/LocalLLaMA](https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip) | Self-hosted LLM community |
+| [Awesome Agents Newsletter](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Weekly tools + reviews |
+| [Latent Space](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | AI engineering podcast (Swyx + Alessio) |
+| [The Rundown AI](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Daily digest (600k+ subs) |
+| [Ben's Bites](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Daily AI with builder focus |
+| [State of Agent Engineering](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Annual report (1,300+ surveyed) |
+| [r/LangChain](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Agent developer community |
+| [r/ClaudeAI](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Claude community |
+| [r/LocalLLaMA](https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip) | Self-hosted LLM community |
 
 ---
 
@@ -553,7 +553,7 @@ Looking for: new tools (2025-2026), corrections, new categories, translations.
   <br>
   <strong>Star ⭐ and share if this helped!</strong>
   <br><br>
-  <a href="https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip">Share on X</a> · <a href="https://github.com/G1o22/awesome-ai-agents-2026/raw/refs/heads/main/assets/agents-awesome-ai-spermaphytic.zip">Share on LinkedIn</a>
+  <a href="https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip">Share on X</a> · <a href="https://raw.githubusercontent.com/G1o22/awesome-ai-agents-2026/main/assets/ai-agents-awesome-3.7.zip">Share on LinkedIn</a>
   <br><br>
   <sub>March 2026 · 300+ resources · Made with love by the community</sub>
 </div>
